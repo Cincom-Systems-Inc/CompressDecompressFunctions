@@ -50,7 +50,7 @@
       },
     "repoURL": {
       "type": "string",
-      "defaultValue": "https://github.com/ciellos-dev/CompressDecompressFunctions.git",
+      "defaultValue": "https://github.com/Cincom-Systems-Inc/CompressDecompressFunctions.git",
       "metadata": {
         "description": "The URL for the GitHub repository that contains the project to deploy."
       }
@@ -64,14 +64,14 @@
       },
       "publisherName": {
         "type": "string",
-        "defaultValue": "Ciellos",
+        "defaultValue": "Cincom Inc",
         "metadata": {
           "description": "The Publisher name"
         }
       },
       "publisherEmail": {
         "type": "string",
-        "defaultValue": "yevgenii.romanov@ciellos.com",
+        "defaultValue": "jketron@cincom.com",
         "metadata": {
           "description": "The Publisher email"
         }
